@@ -1,6 +1,9 @@
 Práctica: DSL: Redacción de Cuestionarios II (Con Contexto)
 ============================
 
+En este repositorio encontrará una solución a la siguiente práctica tutorizada.
+Intente resolverla antes de copiar.
+
 Se trata de escribir un programa que redacte cuestionarios. En principio, sólo soportaremos preguntas del tipo selección múltiple:
 
     1. ¿En que año Cristobal Colón descubrió América?
