@@ -1,4 +1,4 @@
-Práctica: DSL: Redacción de Cuestionarios II (Con Contexto)
+Práctica: DSL: Redacción de Cuestionarios 
 ============================
 
 En este repositorio encontrará una solución a la siguiente práctica tutorizada.
