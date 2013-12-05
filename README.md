@@ -68,5 +68,5 @@ Hay un problema con la llamada al método question:
         wrong =>'1808',
         wrong =>'1914'
 
-si el segundo argumento es un hash y las claves son `wrong` y `right` se va a producir una colisión y el último valor sobreescribirá a los anteriores. ¿Se puede resolver?
+Si el segundo argumento es un hash y las claves son `wrong` y `right` se va a producir una colisión y el último valor sobreescribirá a los anteriores. ¿Se puede resolver?
 
