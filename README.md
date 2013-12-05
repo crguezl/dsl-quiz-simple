@@ -57,7 +57,7 @@ El programa anterior podría producir una salida parecida a esta:
     MacBookdeCasiano:chapter8ReflectionandMetaprogramming casiano$
 
 Los cuestionarios deberían tener un método `to_s`
-Los cuestionarios deberían tener un método run que formulara cada una de las preguntas del cuestionario y mostrara el porcentaje de aciertos
+Los cuestionarios deberían tener un método `run` que formulara cada una de las preguntas del cuestionario y mostrara el porcentaje de aciertos
 Puede que le interese crear tres clases, una para las respuestas (`Answer`), otra para las preguntas (`Question`) y una para el cuestionario (`Quiz`)
 Hay un problema con la llamada al método question:
 
