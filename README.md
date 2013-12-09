@@ -73,3 +73,19 @@ los anteriores. ¿Se puede resolver?
 
 Por cierto, ¿Se ha fijado que dice `wrong` y no `:wrong`?
 
+Posibles Mejoras
+----------------
+
+1. Añada un segundo tipo de preguntas `predicado`:
+       
+       question " ¿Quién reinaba en España cuando Colón descubrió America? do |answer|
+         if (answer =~ /isabel/i and answer =~ /fernando/i) or
+         (answer =~ /reyes.*cat[oó]licos/i) then          # aceptemos que no pongan acento
+           1
+         else
+           0
+         end
+       end
+
+2. Convierta el programa anterior en una aplicación Web usando [Sinatra](http://www.sinatrarb.com/)
+el código del bloque retorna la puntuación de la pregunta
