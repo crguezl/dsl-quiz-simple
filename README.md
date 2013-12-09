@@ -81,11 +81,13 @@ Posibles Mejoras
          question " ¿Quién reinaba en España cuando Colón descubrió America? do |answer|
            if (answer =~ /isabel/i and answer =~ /fernando/i) or
            (answer =~ /reyes.*cat[oó]licos/i) then          # aceptemos que no pongan acento
-             1
+             1                   # máxima puntuación para esta pregunta
            else
-             0
+             0                   # fallaron: 0 puntos
            end
          end
+
+El bloque retorna la puntuación de la pregunta
 
 2. Convierta el programa anterior en una aplicación Web usando [Sinatra](http://www.sinatrarb.com/)
 el código del bloque retorna la puntuación de la pregunta
