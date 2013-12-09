@@ -11,7 +11,6 @@ Se trata de escribir un programa que redacte cuestionarios. En principio, sólo 
           2 - 1492
           3 - 1808
           4 - 1914
-    Su respuesta:
 
 Debe definir una API que soporte un pequeño lenguaje en el que las preguntas puedan ser especificadas de una forma natural. Algo así vale:
 
