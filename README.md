@@ -34,7 +34,7 @@ Debe definir una API que soporte un pequeño lenguaje en el que las preguntas pu
 
 
 Se deberá escribir un intérprete `q.rb` que cuando se ejecuta 
-pregunta yevalúa el cuestionario:
+pregunta y evalúa el cuestionario:
 
 
       [~/chapter8ReflectionandMetaprogramming/DSL/quiz(master)]$ ./q.rb histandmath.rb 
