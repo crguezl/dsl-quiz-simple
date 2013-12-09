@@ -87,6 +87,6 @@ Posibles Mejoras
            end
          end
 
-1. El bloque retorna la puntuación de la pregunta
+    1. El bloque retorna la puntuación de la pregunta
 
-2. Convierta el programa anterior en una aplicación Web usando [Sinatra](http://www.sinatrarb.com/)
+    2. Convierta el programa anterior en una aplicación Web usando [Sinatra](http://www.sinatrarb.com/)
