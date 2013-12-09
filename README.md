@@ -72,3 +72,5 @@ Si el segundo argumento es un hash y las claves son `wrong` y `right`
 se va a producir una colisión y el último valor sobreescribirá a
 los anteriores. ¿Se puede resolver?
 
+Por cierto, ¿Se ha fijado que dice `wrong` y no `:wrong`?
+
