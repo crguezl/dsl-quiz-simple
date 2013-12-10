@@ -87,6 +87,6 @@ Posibles Mejoras
            end
          end
 
-    1. El método `score` determina la puntuación de la pregunta (por defecto es 1)
+    1. El método `score` determina la puntuación de la pregunta actual (por defecto es 1)
 
     2. Convierta el programa anterior en una aplicación Web usando [Sinatra](http://www.sinatrarb.com/)
